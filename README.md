@@ -20,7 +20,7 @@ A cloud based remote android managment suite, powered by NodeJS
 ```
      ₹____________________<😈>_____________________₹
                          MR JINN
-       [ Telegram : https://t.me/MrJinnTelegram ]
+       [ Telegram : https://t.me/dangerhack56 ]
       ₹___________________________________________₹
 ```
 
@@ -42,9 +42,8 @@ A cloud based remote android managment suite, powered by NodeJS
 - Built In APK Builder
 
 ## tutorial video
-
-[ https://youtu.be/hprC4q9rkmY ]
-
+https://t.me/dangerhack56
+https://t.me/dangerhack56
 ---
 
 ### install setup Termux
